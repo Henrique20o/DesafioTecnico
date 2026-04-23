@@ -105,6 +105,6 @@ O layout da aplicação foi inicialmente gerado utilizando a ferramenta **AI Sti
 
 O enunciado completo do desafio pode ser acessado abaixo:
 
-👉 [Acessar desafio](./docs/desafio-frontend.pdf)
+👉 [Acessar desafio](./docs/desafio-frontendvoca.pdf)
 
 ---
